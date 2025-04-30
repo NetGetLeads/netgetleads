@@ -1,3 +1,3 @@
-2025-06-01;;Digital marketing expert in tech startups;;sarah@example.com;;sarahtech;;pass1234;;2025-05-01;;premium;;;
-2025-06-05;;Freelance graphic designer specializing in logos;;jake@example.com;;jakedesign;;securepass99;;2025-05-05;;basic;;;
-2025-06-10;;eCommerce consultant with Shopify focus;;emma@example.com;;emmaecom;;ecom2025;;2025-05-10;;pro
+2025-06-01;;Digital marketing expert in tech startups;;mythrowawaycastaway.com;;sarahtech;;pass1234;;2025-05-01;;premium;;;
+2025-06-05;;Freelance graphic designer specializing in logos;;zamauri1230@gmail.com;;jakedesign;;securepass99;;2025-05-05;;basic;;;
+2025-06-10;;eCommerce consultant with Shopify focus;;flaminzuko@gmail.com;;emmaecom;;ecom2025;;2025-05-10;;pro
