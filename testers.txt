@@ -1,68 +1,68 @@
 2025-06-05;;Freelance graphic designer specializing in logos;;zamauri1230@gmail.com;;jakedesign;;securepass99;;2025-05-05;;basic;;;
-2025-06-05;;AI receptionists and AI chatbots;;BaCaDaEa@smoomer.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Voice AI agents for variety of applications like sales, receptionist,  client support;;Jjlawy@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;software developer;;maizzuddin5@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Custom software development;;raghulmanohar@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
+2025-06-05;;AI receptionists and AI chatbots;;BaCaDaEa@smoomer.com;;Tester1;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Voice AI agents for variety of applications like sales, receptionist,  client support;;Jjlawy@gmail.com;;Tester2;;tester;;2025-05-05;;basic;;;
+2025-06-05;;software developer;;maizzuddin5@gmail.com;;Tester3;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Custom software development;;raghulmanohar@gmail.com;;Tester4;;tester;;2025-05-05;;basic;;;
 2025-06-05;;possesses an exceptionally rare and potent combination of skills, rapidly acquired and honed through a unique, project-driven, AI-accelerated learning process:
  * Full-Stack Development (Rapid Acquisition): Demonstrates an extraordinary ability to quickly learn and work across a modern full-stack tech stack including Frontend (HTML, CSS, Tailwind, React, Next.js, TypeScript), Backend (Python, FastAPI, ASGI, TypeScript), API development (REST, Websockets), and Databases (SQLite, PostgreSQL, ORM). Highly proficient in debugging complex systems.
  * AI Agent & Automation Architecture: Possesses a strong understanding of building multi-agent systems and designing components (like MCPs) for advanced automation capabilities (web automation, code analysis, knowledge management, multi-language execution, structured reasoning).
  * Business Acumen & Strategy: Exhibits significant capability in identifying market needs, defining innovative business models (multiple distinct methods), strategizing for client acquisition (Rapid MVP, Venmo Bet), and planning for revenue generation and scalability.
  * Potent Charisma & Influence: Possesses exceptional interpersonal skills, including a high level of charisma that enables rapid rapport building, persuasion, networking, and the ability to effectively pitch ideas and inspire confidence in others. Highly self-aware regarding the impact of their influence.
  * Exceptional Work Capacity & Resilience: Demonstrates a remarkable ability to manage a vast and complex workload spanning technical development, business operations, sales, R&D, and project management, often with apparent ease, and to persevere and achieve results despite significant external challenges and personal struggles.
- * Hyper-Accelerated Learning & Problem Solving: Has a proven, highly effective self-directed methodology for rapidly acquiring complex technical skills through hands-on building and debugging, demonstrating an exceptional aptitude for understanding and resolving intricate problems quickly.;;khyronamos@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Fresher, BCA, MCA, Python;;manish.sharma2464@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Led Lights Business;;info.glostrix@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Development. Primarily PHP/MySQL;;netget@toddsplace.ca;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;We build professionally done business websites for affordable rates and build ai integration;;allan@webjungle.co.uk;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Mental Fitness Coaching For Weight Loss;;luxveda1@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Design (products, ux, apps, brands, websites). Early stage startups idea validation. Works for most industries but I have expertise in wellbeing, productivity, personal growth, spirituality;;Tim.smits@xs4all.nl;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Science research, neuroscience specialization, skill set : lab work, literature reviews, manuscript writing;;ramajaburass@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
+ * Hyper-Accelerated Learning & Problem Solving: Has a proven, highly effective self-directed methodology for rapidly acquiring complex technical skills through hands-on building and debugging, demonstrating an exceptional aptitude for understanding and resolving intricate problems quickly.;;khyronamos@gmail.com;;Tester5;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Fresher, BCA, MCA, Python;;manish.sharma2464@gmail.com;;Tester6;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Led Lights Business;;info.glostrix@gmail.com;;Tester7;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Development. Primarily PHP/MySQL;;netget@toddsplace.ca;;Tester8;;tester;;2025-05-05;;basic;;;
+2025-06-05;;We build professionally done business websites for affordable rates and build ai integration;;allan@webjungle.co.uk;;Tester9;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Mental Fitness Coaching For Weight Loss;;luxveda1@gmail.com;;Tester10;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Design (products, ux, apps, brands, websites). Early stage startups idea validation. Works for most industries but I have expertise in wellbeing, productivity, personal growth, spirituality;;Tim.smits@xs4all.nl;;Tester11;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Science research, neuroscience specialization, skill set : lab work, literature reviews, manuscript writing;;ramajaburass@gmail.com;;Tester12;;tester;;2025-05-05;;basic;;;
 2025-06-05;;Cyber essentials / cyber security 
-;;Cyber@netsecgroup.co.uk;;Tester;;tester;;2025-05-05;;basic;;;
+;;Cyber@netsecgroup.co.uk;;Tester13;;tester;;2025-05-05;;basic;;;
 2025-06-05;;We have developed a smart scheduling platform to solve a common pain point: managing shift-based teams with changing availability. Built for businesses with dynamic staffing needs — like retail, service, or logistics — our tool takes in employee data, branch hours, and shift limits to auto-generate schedules, then allows instant rescheduling with just a few clicks when someone becomes unavailable. It's clean, fast, and reliable. We made this to eliminate the time drain and confusion of manual scheduling. As we grow, we plan to scale this into a broader automation suite, offering integrations, AI-driven optimization, and tailored solutions to help businesses streamline their entire operations stack.
 ;;rs1937163@gmail.com
-;;Tester;;tester;;2025-05-05;;basic;;;
+;;Tester14;;tester;;2025-05-05;;basic;;;
 2025-06-05;;I sale security cameras and access systems fire systems for Johnson controls 
-;;info.greg.b1@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;UI/UX designer & Figma Prototype;;bani.afzal28@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;I'm looking for freelance cinematography/director of photography/videography/camera operator jobs in London or around the UK;;jamietouche@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;SupaPM.com. Ai agents and tools for software product teams. Automated competitor monitoring, backlog prioritisation, industry research, insight gathering, call analysis and more;;Chris@chrisdermody.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Water softeners, Central Florida (Orlando, Daytona, Ocala, Tampa, Kissimmee);;Michael.john.jones@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;AI/Automation;;john@droste.ai;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Independent name Anita Calabrese -  Print Broker for physical printed products and Digital Products (Digital Planners, Digital T-shirt designs, Digital stickers etc.) and Digital Courses (Digital Academy MMR for people to purchase who want to learn the Digital Product Industry then can resell the course they purchased at 100% profit back to them and PLR Products that are Done For You to make things faster and easier they can resell it with modifications to make it their own at a100% profit back to them as well. Digital Affiliate Academy to learn the Digital Products industry I sell for them to learn then they can be resold and they gain 90% commission and  another similar course academy that is a affiliate they purchase from to learn the digital products industry and can be resold and earn back 80% of affiliate. ;;alloutdigitalwealth@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Ai Agency for workflow Automations and Voice Agents;;Kaymakmika@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
+;;info.greg.b1@gmail.com;;Tester15;;tester;;2025-05-05;;basic;;;
+2025-06-05;;UI/UX designer & Figma Prototype;;bani.afzal28@gmail.com;;Tester16;;tester;;2025-05-05;;basic;;;
+2025-06-05;;I'm looking for freelance cinematography/director of photography/videography/camera operator jobs in London or around the UK;;jamietouche@gmail.com;;Tester17;;tester;;2025-05-05;;basic;;;
+2025-06-05;;SupaPM.com. Ai agents and tools for software product teams. Automated competitor monitoring, backlog prioritisation, industry research, insight gathering, call analysis and more;;Chris@chrisdermody.com;;Tester18;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Water softeners, Central Florida (Orlando, Daytona, Ocala, Tampa, Kissimmee);;Michael.john.jones@gmail.com;;Tester19;;tester;;2025-05-05;;basic;;;
+2025-06-05;;AI/Automation;;john@droste.ai;;Tester20;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Independent name Anita Calabrese -  Print Broker for physical printed products and Digital Products (Digital Planners, Digital T-shirt designs, Digital stickers etc.) and Digital Courses (Digital Academy MMR for people to purchase who want to learn the Digital Product Industry then can resell the course they purchased at 100% profit back to them and PLR Products that are Done For You to make things faster and easier they can resell it with modifications to make it their own at a100% profit back to them as well. Digital Affiliate Academy to learn the Digital Products industry I sell for them to learn then they can be resold and they gain 90% commission and  another similar course academy that is a affiliate they purchase from to learn the digital products industry and can be resold and earn back 80% of affiliate. ;;alloutdigitalwealth@gmail.com;;Tester21;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Ai Agency for workflow Automations and Voice Agents;;Kaymakmika@gmail.com;;Tester22;;tester;;2025-05-05;;basic;;;
 2025-06-05;;Get precisely the Audio, Image, and Time-Series Sensor data you need, collected reliably from real-world scenarios.Zalmotek provides flexible and expert dataset capturing services. Whether you need manual collection with specific sensors or large-scale automated capture powered by our advanced digital twin technology, we deliver the high-fidelity data essential for your success.
-;;constantin@zalmotek.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;We sell Lithium Ion batteries, Solar panels;;raghav@voltq.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Sales manager in a 3 star Suburban Hotel;;sm1840635@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
+;;constantin@zalmotek.com;;Tester23;;tester;;2025-05-05;;basic;;;
+2025-06-05;;We sell Lithium Ion batteries, Solar panels;;raghav@voltq.com;;Tester24;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Sales manager in a 3 star Suburban Hotel;;sm1840635@gmail.com;;Tester25;;tester;;2025-05-05;;basic;;;
 2025-06-05;;LED Lighting (Experiential Marketing, Museums and Galleries, Commercial, Industrial, Retail)
 	•	EV Charging Solutions
 	•	Solar Energy Solutions
 Design/Supply/Install 
-Project management;;abulber1@aol.com;;Tester;;tester;;2025-05-05;;basic;;;
+Project management;;abulber1@aol.com;;Tester26;;tester;;2025-05-05;;basic;;;
 2025-06-05;;DCSI is a unique, insightful tool specifically designed to help you understand how YOU communicate digitally and how to connect more effectively with others online.
 
 Built on established psychological principles but tailored for the nuances of text-based interaction, DCSI reveals your natural tendencies and provides actionable strategies for growth. 
 
-Thank you;;mykojai@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Product Manager / GTM;;john@truce.io;;Tester;;tester;;2025-05-05;;basic;;;
+Thank you;;mykojai@gmail.com;;Tester27;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Product Manager / GTM;;john@truce.io;;Tester28;;tester;;2025-05-05;;basic;;;
 2025-06-05;;Lucid Travel is a technology platform that specializes in hotel accommodations. We work closely with sport event organizations or general event organizations that need hotel lodging for their events. We have access to discounted closed user group rates that help guests save money and also provide a financial kickback to the host organization for pushing their members (teams, parents, attendees) to the platform.;;nick@lucidtravel.us;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Marketing ;;dongyong418@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Web Services;;Carolr.ovbs@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Digital transformation and Automation consulting;;Taskmait@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Brand Strategist & Consultant;;ryzeonline@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Quantitative Strategist & System Architect specialising in management consulting and, AI adoption;;mindrocket42@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Business consulting;;steve.heim76@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Microbrand Watches ;;marcus@charlesberret.co;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Water softener sales;;Michael.john.jones@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Motivated sellers of houses needing repairs;;Michael.john.jones@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Roofing replacement;;Michael.john.jones@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Mortgage protection insurance;;Michael.john.jones@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Real estate wholesaling software SaaS;;Michael.john.jones@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Marketing ;;dongyong418@gmail.com;;Tester29;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Web Services;;Carolr.ovbs@gmail.com;;Tester30;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Digital transformation and Automation consulting;;Taskmait@gmail.com;;Tester31;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Brand Strategist & Consultant;;ryzeonline@gmail.com;;Tester32;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Quantitative Strategist & System Architect specialising in management consulting and, AI adoption;;mindrocket42@gmail.com;;Tester33;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Business consulting;;steve.heim76@gmail.com;;Tester34;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Microbrand Watches ;;marcus@charlesberret.co;;Tester35;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Water softener sales;;Michael.john.jones@gmail.com;;Tester36;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Motivated sellers of houses needing repairs;;Michael.john.jones@gmail.com;;Tester37;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Roofing replacement;;Michael.john.jones@gmail.com;;Tester38;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Mortgage protection insurance;;Michael.john.jones@gmail.com;;Tester39;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Real estate wholesaling software SaaS;;Michael.john.jones@gmail.com;;Tester40;;tester;;2025-05-05;;basic;;;
 2025-06-05;;OKZest.com - I'm a developer so coding is the easy bit for me, I'm now focusing on marketing so your tool would be great.
 I'm after email design agencies or social media marketers who want to create automatic images with text on the image, think merge tags for images.
-Thanks!;;kevin@kevinuk.co.uk;;Tester;;tester;;2025-05-05;;basic;;;
-2025-06-05;;i'm an artist and graphic designer;;giselleguerrero179@gmail.com;;Tester;;tester;;2025-05-05;;basic;;;
+Thanks!;;kevin@kevinuk.co.uk;;Tester41;;tester;;2025-05-05;;basic;;;
+2025-06-05;;i'm an artist and graphic designer;;giselleguerrero179@gmail.com;;Tester42;;tester;;2025-05-05;;basic;;;
 
 
 
