@@ -33,11 +33,15 @@
 2025-06-05;;Ai Agency for workflow Automations and Voice Agents;;Kaymakmika@gmail.com;;Tester22;;tester;;2025-05-05;;basic;;;
 2025-06-05;;Get precisely the Audio, Image, and Time-Series Sensor data you need, collected reliably from real-world scenarios.Zalmotek provides flexible and expert dataset capturing services. Whether you need manual collection with specific sensors or large-scale automated capture powered by our advanced digital twin technology, we deliver the high-fidelity data essential for your success.
 ;;constantin@zalmotek.com;;Tester23;;tester;;2025-05-05;;basic;;;
-2025-06-05;;We sell Lithium Ion batteries, Solar panels;;raghav@voltq.com;;Tester24;;tester;;2025-05-05;;basic;;;
+2025-06-05;;We sell Lithium Ion batteries, Solar panels, ;;raghav@voltq.com;;Tester24;;tester;;2025-05-05;;basic;;;
 2025-06-05;;Sales manager in a 3 star Suburban Hotel;;sm1840635@gmail.com;;Tester25;;tester;;2025-05-05;;basic;;;
 2025-06-05;;LED Lighting (Experiential Marketing, Museums and Galleries, Commercial, Industrial, Retail)
 	•	EV Charging Solutions
 	•	Solar Energy Solutions
+        . data centre developers, commercial property managers and developersNick@lucidtravel.us
+
+
+
 Design/Supply/Install 
 Project management;;abulber1@aol.com;;Tester26;;tester;;2025-05-05;;basic;;;
 2025-06-05;;DCSI is a unique, insightful tool specifically designed to help you understand how YOU communicate digitally and how to connect more effectively with others online.
@@ -46,7 +50,8 @@ Built on established psychological principles but tailored for the nuances of te
 
 Thank you;;mykojai@gmail.com;;Tester27;;tester;;2025-05-05;;basic;;;
 2025-06-05;;Product Manager / GTM;;john@truce.io;;Tester28;;tester;;2025-05-05;;basic;;;
-2025-06-05;;Lucid Travel is a technology platform that specializes in hotel accommodations. We work closely with sport event organizations or general event organizations that need hotel lodging for their events. We have access to discounted closed user group rates that help guests save money and also provide a financial kickback to the host organization for pushing their members (teams, parents, attendees) to the platform.;;nick@lucidtravel.us;;Tester;;tester;;2025-05-05;;basic;;;
+2025-06-05;;Lucid Travel is a technology platform that specializes in hotel accommodations. We work closely with sport event organizations or general event organizations that need hotel lodging for their events. We have access to discounted closed user group rates that help guests save money and also provide a financial kickback to the host organization for pushing their members (teams, parents, attendees) to the platform.Our market is sports tournament directors
+Event orgs that run sporting events and the teams attending the event need hotels.;;nick@lucidtravel.us;;Tester;;tester;;2025-05-05;;basic;;;
 2025-06-05;;Marketing ;;dongyong418@gmail.com;;Tester29;;tester;;2025-05-05;;basic;;;
 2025-06-05;;Web Services;;Carolr.ovbs@gmail.com;;Tester30;;tester;;2025-05-05;;basic;;;
 2025-06-05;;Digital transformation and Automation consulting;;Taskmait@gmail.com;;Tester31;;tester;;2025-05-05;;basic;;;
